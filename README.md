@@ -2,9 +2,4 @@
 This repository is for practicing Git Commands.
 The First time README markdown file.
 
-## The Roman Empire
-
-The world of David
-
-In the face of the world
 
